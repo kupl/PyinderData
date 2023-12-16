@@ -1,0 +1,14 @@
+{
+    "search_path": [
+        "/home/wonseok/ExcePy_Present/data/matplotlib/matplotlib-3"
+    ],
+    "source_directories": [
+        {
+            "root": "/home/wonseok/ExcePy_Present/data/matplotlib/matplotlib-3",
+            "subdirectory": "lib/matplotlib"
+        }
+    ],
+    "strict": true,
+    "taint_models_path": ".",
+    "typeshed": "/home/wonseok/Pyinder/stubs/typeshed/typeshed-master"
+}

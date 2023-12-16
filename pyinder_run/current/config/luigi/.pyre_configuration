@@ -1,0 +1,19 @@
+{
+    "search_path": [
+        "/home/wonseok/current/luigi"
+    ],
+    "source_directories": [
+        {
+            "root": "/home/wonseok/current/luigi",
+            "subdirectory": "luigi"
+        },
+
+        {
+            "root": "/home/wonseok/current/luigi",
+            "subdirectory": "test"
+        }
+    ],
+    "strict": true,
+    "taint_models_path": ".",
+    "typeshed": "/home/wonseok/Pyinder/stubs/typeshed/typeshed-master"
+}

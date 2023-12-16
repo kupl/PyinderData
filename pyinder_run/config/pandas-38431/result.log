@@ -1,0 +1,10 @@
+Raised at file "src/exn.ml", line 71, characters 4-114
+Called from file "command/mineCommand.ml", line 182, characters 59-81
+Called from file "command/mineCommand.ml", line 200, characters 30-71
+Called from file "command/mineCommand.ml", line 283, characters 6-143
+Called from file "src/core/lwt.ml", line 2118, characters 16-20
+Raised at file "command/mineCommand.ml", line 275, characters 14-36
+Called from file "command/mineCommand.ml", line 377, characters 14-82
+Called from file "src/core/lwt.ml", line 2008, characters 16-20
+
+None

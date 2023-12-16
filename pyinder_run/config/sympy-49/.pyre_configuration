@@ -1,0 +1,14 @@
+{
+    "search_path": [
+        "/home/wonseok/ExcePy_Present/data/sympy/sympy-49"
+    ],
+    "source_directories": [
+        {
+            "root": "/home/wonseok/ExcePy_Present/data/sympy/sympy-49",
+            "subdirectory": "sympy"
+        }
+    ],
+    "strict": true,
+    "taint_models_path": ".",
+    "typeshed": "/home/wonseok/Pyinder/stubs/typeshed/typeshed-master"
+}

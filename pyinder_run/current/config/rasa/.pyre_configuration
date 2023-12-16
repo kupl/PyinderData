@@ -1,0 +1,18 @@
+{
+    "search_path": [
+        "/home/wonseok/current/rasa"
+    ],
+    "source_directories": [
+        {
+            "root": "/home/wonseok/current/rasa",
+            "subdirectory": "rasa"
+        },
+        {
+            "root": "/home/wonseok/current/rasa",
+            "subdirectory": "tests"
+        }
+    ],
+    "strict": true,
+    "taint_models_path": ".",
+    "typeshed": "/home/wonseok/Pyinder/stubs/typeshed/typeshed-master"
+}

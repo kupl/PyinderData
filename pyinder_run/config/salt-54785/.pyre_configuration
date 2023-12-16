@@ -1,0 +1,18 @@
+{
+    "search_path": [
+        "/home/wonseok/benchmark/salt-54785"
+    ],
+    "source_directories": [
+        {
+            "root": "/home/wonseok/benchmark/salt-54785",
+            "subdirectory": "salt"
+        },
+        {
+            "root": "/home/wonseok/benchmark/salt-54785",
+            "subdirectory": "tests"
+        }
+    ],
+    "strict": true,
+    "taint_models_path": ".",
+    "typeshed": "/home/wonseok/Pyinder/stubs/typeshed/typeshed-master"
+}

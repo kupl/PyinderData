@@ -1,0 +1,14 @@
+{
+    "search_path": [
+        "/home/wonseok/ExcePy_Present/data/cpython/cpython-6"
+    ],
+    "source_directories": [
+        {
+            "root": "/home/wonseok/ExcePy_Present/data/cpython/cpython-6",
+            "subdirectory": "Lib"
+        }
+    ],
+    "strict": true,
+    "taint_models_path": ".",
+    "typeshed": "/home/wonseok/Pyinder/stubs/typeshed/typeshed-master"
+}

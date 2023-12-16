@@ -1,0 +1,18 @@
+{
+    "search_path": [
+        "/home/wonseok/current/requests"
+    ],
+    "source_directories": [
+        {
+            "root": "/home/wonseok/current/requests",
+            "subdirectory": "requests"
+        },
+        {
+            "root": "/home/wonseok/current/requests",
+            "subdirectory": "tests"
+        }
+    ],
+    "strict": true,
+    "taint_models_path": ".",
+    "typeshed": "/home/wonseok/Pyinder/stubs/typeshed/typeshed-without-requests"
+}

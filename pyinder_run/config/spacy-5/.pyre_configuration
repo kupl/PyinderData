@@ -1,0 +1,14 @@
+{
+    "search_path": [
+        "/home/wonseok/BugsInPy/benchmark/spacy-5"
+    ],
+    "source_directories": [
+        {
+            "root": "/home/wonseok/BugsInPy/benchmark/spacy-5",
+            "subdirectory": "spacy"
+        }
+    ],
+    "strict": true,
+    "taint_models_path": ".",
+    "typeshed": "/home/wonseok/Pyinder/stubs/typeshed/typeshed-master"
+}

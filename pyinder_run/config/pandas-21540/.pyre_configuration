@@ -1,0 +1,14 @@
+{
+    "search_path": [
+        "/home/wonseok/benchmark/pandas-21540"
+    ],
+    "source_directories": [
+        {
+            "root": "/home/wonseok/benchmark/pandas-21540",
+            "subdirectory": "pandas"
+        }
+    ],
+    "strict": true,
+    "taint_models_path": ".",
+    "typeshed": "/home/wonseok/Pyinder/stubs/typeshed/typeshed-master"
+}

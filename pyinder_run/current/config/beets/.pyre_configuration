@@ -1,0 +1,18 @@
+{
+    "search_path": [
+        "/home/wonseok/current/beets"
+    ],
+    "source_directories": [
+        {
+            "root": "/home/wonseok/current/beets",
+            "subdirectory": "beetsplug"
+        },
+        {
+            "root": "/home/wonseok/current/beets",
+            "subdirectory": "test"
+        }
+    ],
+    "strict": true,
+    "taint_models_path": ".",
+    "typeshed": "/home/wonseok/Pyinder/stubs/typeshed/typeshed-master"
+}

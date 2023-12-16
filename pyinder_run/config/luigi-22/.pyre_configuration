@@ -1,0 +1,19 @@
+{
+    "search_path": [
+        "/home/wonseok/BugsInPy/benchmark/luigi-22"
+    ],
+    "source_directories": [
+        {
+            "root": "/home/wonseok/BugsInPy/benchmark/luigi-22",
+            "subdirectory": "luigi"
+        },
+
+        {
+            "root": "/home/wonseok/BugsInPy/benchmark/luigi-25",
+            "subdirectory": "test"
+        }
+    ],
+    "strict": true,
+    "taint_models_path": ".",
+    "typeshed": "/home/wonseok/Pyinder/stubs/typeshed/typeshed-master"
+}

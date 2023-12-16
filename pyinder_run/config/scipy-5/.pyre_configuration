@@ -1,0 +1,14 @@
+{
+    "search_path": [
+        "/home/wonseok/ExcePy_Present/data/scipy/scipy-5/scipy"
+    ],
+    "source_directories": [
+        {
+            "root": "/home/wonseok/ExcePy_Present/data/scipy/scipy-5",
+            "subdirectory": "scipy"
+        }
+    ],
+    "strict": true,
+    "taint_models_path": ".",
+    "typeshed": "/home/wonseok/Pyinder/stubs/typeshed/typeshed-master"
+}

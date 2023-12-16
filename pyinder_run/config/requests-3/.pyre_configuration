@@ -1,0 +1,14 @@
+{
+    "search_path": [
+        "/home/wonseok/ExcePy_Present/data/requests/requests-3"
+    ],
+    "source_directories": [
+        {
+            "root": "/home/wonseok/ExcePy_Present/data/requests/requests-3",
+            "subdirectory": "requests"
+        }
+    ],
+    "strict": true,
+    "taint_models_path": ".",
+    "typeshed": "/home/wonseok/Pyinder/stubs/typeshed/typeshed-without-requests"
+}

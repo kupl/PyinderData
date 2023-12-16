@@ -1,0 +1,18 @@
+{
+    "search_path": [
+        "/home/wonseok/benchmark/core-32318"
+    ],
+    "source_directories": [
+        {
+            "root": "/home/wonseok/benchmark/core-32318",
+            "subdirectory": "homeassistant"
+        },
+        {
+            "root": "/home/wonseok/benchmark/core-32318",
+            "subdirectory": "tests"
+        }
+    ],
+    "strict": true,
+    "taint_models_path": ".",
+    "typeshed": "/home/wonseok/Pyinder/stubs/typeshed/typeshed-master"
+}

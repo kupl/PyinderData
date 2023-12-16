@@ -1,0 +1,19 @@
+{
+    "search_path": [
+        "/home/wonseok/current/ansible"
+    ],
+    "source_directories": [
+        {
+            "root": "/home/wonseok/current/ansible",
+            "subdirectory": "lib/ansible"
+        },
+
+        {
+            "root": "/home/wonseok/current/ansible",
+            "subdirectory": "test"
+        }
+    ],
+    "strict": true,
+    "taint_models_path": ".",
+    "typeshed": "/home/wonseok/Pyinder/stubs/typeshed/typeshed-master"
+}

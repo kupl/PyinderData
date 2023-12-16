@@ -1,0 +1,14 @@
+{
+    "search_path": [
+        "/home/wonseok/current/scikitlearn"
+    ],
+    "source_directories": [
+        {
+            "root": "/home/wonseok/current/scikitlearn",
+            "subdirectory": "sklearn"
+        }
+    ],
+    "strict": true,
+    "taint_models_path": ".",
+    "typeshed": "/home/wonseok/Pyinder/stubs/typeshed/typeshed-master"
+}
